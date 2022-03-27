@@ -25,13 +25,13 @@ Here are some ideas to get you started:
 ## Skills
 
 - Programming Languages
-  - Advanced: C, C++, Python
-  - Intermediate: Java, JavaScript, TypeScript, Verilog
+  - Advanced: **C**, **C++**, **Python**
+  - Intermediate: **Java**, **JavaScript**, **TypeScript**
 - Data Analytics / Deep Learning (Advanced)
-  - TensorFlow, PyTorch, Scikit-Learn, Pandas, NumPy
+  - **TensorFlow**, **PyTorch**, **Scikit-Learn**, **Pandas**, **NumPy**
 - Web Development (Intermediate)
-  - HTML, CSS, Angular, Vue
+  - **Angular**, **Vue**
 - Tools
-  - Git, Make
+  - **Git**, **Make**
 - Operating Systems
-  - Linux, Windows
+  - **Linux**, **Windows**
