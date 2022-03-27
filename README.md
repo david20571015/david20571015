@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - :coffee: I'm enjoying coffee brewing.
 - 📫 Reach me by [e-mail](mailto:david20571015@gmail.com)
 
-## Skill
+## Skills
 
 - Programming Languages
   - C, C++, Python, Java, JavaScript, TypeScript, Verilog
