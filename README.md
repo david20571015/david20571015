@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 - Programming Languages
   - Advanced: **C**, **C++**, **Python**
   - Intermediate: **Java**, **JavaScript**, **TypeScript**
-- Data Analytics / Deep Learning (Advanced)
+- Data Analytics / Deep Learning (advanced)
   - **TensorFlow**, **PyTorch**, **Scikit-Learn**, **Pandas**, **NumPy**
-- Web Development (Intermediate)
+- Web Development (beginner)
   - **Angular**, **Vue**
 - Tools
   - **Git**, **Make**
