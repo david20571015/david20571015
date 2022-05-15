@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 - Tools
   - **Git**, **Make**
 - Operating Systems
-  - **Linux**, **Windows**
+  - **GUN/Linux**, **Windows**
