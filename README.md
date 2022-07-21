@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## About me
 
-- :student: An undergraduate student at **National Yang Ming Chiao Tung University**.
+- :student: An graduate student at **National Yang Ming Chiao Tung University**.
 - 🌱 I'm currently learning **Deep Learning** and **Front-End Development**.
 - :coffee: I'm enjoying coffee brewing.
 - 📫 Reach me by [e-mail](mailto:david20571015@gmail.com)
