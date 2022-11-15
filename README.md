@@ -34,5 +34,3 @@ Here are some ideas to get you started:
   - Back-End: **Node.js**, **Express.js**, **Nest.js**
 - Tools
   - **Git**, **Make**
-- Operating Systems
-  - **GNU/Linux**, **MacOS**, **Windows**
