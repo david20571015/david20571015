@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 
 - Programming Languages
   - Advanced: **C**, **C++**, **Python**
-  - Intermediate: **Java**, **JavaScript**, **TypeScript**
+  - Intermediate: **Java**, **JavaScript**, **TypeScript**, **Verilog**, **Assembly**
 - Data Analytics / Deep Learning (intermediate)
   - **TensorFlow**, **PyTorch**, **Scikit-Learn**, **Pandas**, **NumPy**
 - Web Development (beginner)
-  - Front-End: **Angular**, **Vue**
+  - Front-End: **HTML**, **CSS**, **Angular**, **Vue**
   - Back-End: **Node.js**, **Express.js**, **Nest.js**
 - Tools
-  - **Git**, **Make**
+  - **Git**, **Make**, **Anaconda**
