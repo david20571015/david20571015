@@ -34,3 +34,5 @@ Here are some ideas to get you started:
   - Back-End: **Node.js**, **Express.js**, **Nest.js**
 - Tools
   - **Git**, **Make**, **Anaconda**
+
+<a href="https://gitroll.io/profile/u4PNm65z6SYdwq5Hi21B5gJczW0A3" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u4PNm65z6SYdwq5Hi21B5gJczW0A3" alt="GitRoll Profile Badge"/></a>
